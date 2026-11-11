@@ -14,7 +14,7 @@ button{cursor:pointer}
 .site-header{height:76px;position:sticky;top:0;z-index:50;background:var(--header);border-bottom:1px solid var(--line);backdrop-filter:blur(18px)}
 .header-inner{height:100%;display:flex;align-items:center;justify-content:space-between}
 .brand{display:inline-flex;align-items:center;gap:10px;font-family:var(--font-space),sans-serif;font-size:1.12rem;font-weight:700;letter-spacing:-.06em}
-.brand-icon{height:35px;width:35px;display:grid;place-items:center;border-radius:11px;background:linear-gradient(140deg,#a47aff,#7441d2);color:white;box-shadow:0 5px 18px #8955f533}
+.brand-icon{height:35px;width:35px;display:block;flex:0 0 35px;border-radius:11px;background:url("https://nyx-bot-creator.vercel.app/favicon.png?v=2") center/cover no-repeat #7441d2;box-shadow:0 5px 18px #8955f533}
 .brand-light{font-weight:400;color:var(--purple)}
 .brand-beta{font:700 .56rem var(--font-inter),sans-serif;letter-spacing:.1em;color:var(--purple);background:var(--purple-soft);padding:4px 6px;border-radius:5px;margin-left:2px}
 .main-nav{display:flex;align-items:center;gap:34px;color:var(--muted);font-size:.86rem}
