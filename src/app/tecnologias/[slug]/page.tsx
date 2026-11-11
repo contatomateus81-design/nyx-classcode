@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { use, useState } from "react";
 import { ArrowLeft, ArrowRight, BookOpen, CheckCircle2, Lightbulb, ListChecks } from "lucide-react";
 import { SiteHeader } from "@/components/site-header";
 import { technologies } from "@/data/catalog";
