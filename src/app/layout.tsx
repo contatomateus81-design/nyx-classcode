@@ -10,6 +10,11 @@ export const metadata: Metadata = {
   title: "Nyx ClassCode — Aprenda construindo",
   description: "Uma biblioteca interativa para entender como tecnologias são construídas, do zero.",
   applicationName: "Nyx ClassCode",
+  icons: {
+    icon: "https://nyx-bot-creator.vercel.app/favicon.png?v=2",
+    shortcut: "https://nyx-bot-creator.vercel.app/favicon.png?v=2",
+    apple: "https://nyx-bot-creator.vercel.app/favicon.png?v=2",
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
