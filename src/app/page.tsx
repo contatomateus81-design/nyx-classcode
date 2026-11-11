@@ -3,7 +3,8 @@
 import { useMemo, useState } from "react";
 import { ArrowDown, ArrowRight, ArrowUpRight, BookOpen, BrainCircuit, Code2, Compass, Layers3, Search, Sparkles, TerminalSquare } from "lucide-react";
 import { SiteHeader } from "@/components/site-header";
-import { categories, technologies } from "@/data/catalog";\nimport { getLesson } from "@/data/lessons";
+import { categories, technologies } from "@/data/catalog";
+import { getLesson } from "@/data/lessons";
 
 const icons = [BrainCircuit, TerminalSquare, Code2, Layers3, Compass];
 
