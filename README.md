@@ -33,10 +33,18 @@ Abra http://localhost:3000.
 - `src/app`: páginas e estilos globais
 - `src/components`: componentes reutilizáveis
 - `src/data/catalog.ts`: categorias e catálogo de tecnologias
+- `src/data/lessons.ts`: conteúdo didático autoral
+- `docs/CONTENT_IMPORT_PLAN.md`: escopo, arquitetura e regras para incorporar materiais educacionais multilíngues
 
-## Conteúdo e atribuição
+## Fontes educacionais
 
-O catálogo inicial organiza temas inspirados na coleção [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x), do CodeCrafters. O projeto mantém os créditos e direciona às fontes originais; não reproduz integralmente os tutoriais de terceiros.
+O catálogo será ampliado a partir de:
+- [freeCodeCamp](https://www.freecodecamp.org/portuguese/catalog?hl=pt-BR)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+
+O ClassCode catalogará materiais em qualquer idioma, identificando idioma, formato, autoria, fonte e licença. O conteúdo protegido de terceiros será referenciado por links; as aulas complementares do ClassCode serão escritas originalmente, com exemplos, exercícios e recursos visuais próprios.
+
+O catálogo inicial também organiza temas inspirados na coleção [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x), do CodeCrafters.
 
 ## Deploy
 
