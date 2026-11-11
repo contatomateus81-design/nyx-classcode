@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { ArrowDown, ArrowRight, ArrowUpRight, BookOpen, BrainCircuit, Code2, Compass, Layers3, Search, Sparkles, TerminalSquare } from "lucide-react";
+import { ArrowRight, ArrowUpRight, BookOpen, BrainCircuit, Code2, Compass, Layers3, Search, Sparkles, TerminalSquare } from "lucide-react";
 import { SiteHeader } from "@/components/site-header";
 import { categories, technologies } from "@/data/catalog";
 
