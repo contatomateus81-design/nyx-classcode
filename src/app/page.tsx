@@ -116,7 +116,7 @@ export default function HomePage() {
           </div>
         </section>
       </main>
-      <footer className="site-footer"><div className="container footer-inner"><a href="#" className="brand footer-brand"><span className="brand-icon"><BookOpen size={17} /></span><span>nyx<span className="brand-light">class</span>code</span></a><span>Aprender construindo. © {new Date().getFullYear()} NYX.</span><a href="https://github.com/contatomateus81-design/nyx-classcode" target="_blank" rel="noreferrer">Código aberto <ArrowUpRight size={14} /></a></div></footer>
+      <footer className="site-footer"><div className="container footer-inner"><a href="#" className="brand footer-brand"><span className="brand-icon" aria-hidden="true" /><span>nyx<span className="brand-light">class</span>code</span></a><span>Aprender construindo. © {new Date().getFullYear()} NYX.</span><a href="https://github.com/contatomateus81-design/nyx-classcode" target="_blank" rel="noreferrer">Código aberto <ArrowUpRight size={14} /></a></div></footer>
     </>
   );
 }
