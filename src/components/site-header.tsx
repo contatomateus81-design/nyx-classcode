@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { BookOpen, Menu, X, Sparkles } from "lucide-react";
+import { Menu, X, Sparkles } from "lucide-react";
 import { useState } from "react";
 import { ThemeToggle } from "@/components/theme-toggle";
 
@@ -18,7 +18,7 @@ export function SiteHeader() {
     <header className="site-header">
       <div className="container header-inner">
         <Link href="/" className="brand" aria-label="Nyx ClassCode início">
-          <span className="brand-icon"><BookOpen size={19} /></span>
+          <span className="brand-icon" aria-hidden="true" />
           <span>nyx<span className="brand-light">class</span>code</span>
           <span className="brand-beta">BETA</span>
         </Link>
