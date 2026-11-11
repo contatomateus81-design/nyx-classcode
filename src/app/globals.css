@@ -114,7 +114,7 @@ h1 span,h2 span{color:var(--purple)}
 .site-footer{border-top:1px solid var(--line);background:var(--surface)}
 .footer-inner{min-height:85px;display:flex;align-items:center;justify-content:space-between;gap:20px}
 .footer-brand{font-size:1rem}
-.footer-brand .brand-icon{width:31px;height:31px;border-radius:9px}
+.footer-brand .brand-icon{width:31px;height:31px;flex-basis:31px;border-radius:9px}
 .footer-inner>span,.footer-inner>a:last-child{font-size:.7rem;color:var(--muted)}
 .footer-inner>a:last-child{display:flex;align-items:center;gap:5px}
 @media(max-width:900px){.hero-content{grid-template-columns:1fr  .8fr;gap:10px}.hero-visual{transform:scale(.88)}.technology-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.path-layout{gap:40px}.section-heading{align-items:start;flex-direction:column;gap:15px}}
