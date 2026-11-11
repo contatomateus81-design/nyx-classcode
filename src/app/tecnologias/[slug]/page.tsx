@@ -7,8 +7,9 @@ import { SiteHeader } from "@/components/site-header";
 import { technologies } from "@/data/catalog";
 import { getLesson } from "@/data/lessons";
 
-export default function TechnologyLessonPage({ params }: { params: { slug: string } }) {
-  const technology = technologies.find((item) => item.slug === params.slug);
+export default function TechnologyLessonPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = use(params);
+  const technology = technologies.find((item) => item.slug === slug);
   const lesson = technology ? getLesson(technology) : null;
   const [completed, setCompleted] = useState(false);
 
