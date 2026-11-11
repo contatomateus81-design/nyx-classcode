@@ -20,7 +20,8 @@ export const categories = [
   "Dados",
   "Computação gráfica",
   "Ferramentas",
-  "Jogos e simulação"
+  "Jogos e simulação",
+  "Outros"
 ];
 
 export const technologies: Technology[] = [
@@ -54,5 +55,6 @@ export const technologies: Technology[] = [
   { slug: "voxel-engine", title: "Motor de voxels", category: "Computação gráfica", description: "Entenda como mundos tridimensionais podem ser construídos com blocos volumétricos.", difficulty: "Avançado", concepts: ["Chunks", "Malhas", "Renderização"], status: "planned" },
   { slug: "physics-engine", title: "Motor de física", category: "Jogos e simulação", description: "Aprenda a simular movimento, colisões e forças em um ambiente virtual.", difficulty: "Avançado", concepts: ["Vetores", "Colisões", "Dinâmica"], status: "planned" },
   { slug: "game", title: "Jogo", category: "Jogos e simulação", description: "Construa um jogo e conheça os sistemas que o fazem funcionar.", difficulty: "Intermediário", concepts: ["Game loop", "Input", "Estados"], status: "planned" },
-  { slug: "processor", title: "Processador", category: "Sistemas", description: "Investigue os blocos lógicos que executam instruções.", difficulty: "Avançado", concepts: ["ALU", "Registradores", "Clock"], status: "planned" }
+  { slug: "processor", title: "Processador", category: "Sistemas", description: "Investigue os blocos lógicos que executam instruções.", difficulty: "Avançado", concepts: ["ALU", "Registradores", "Clock"], status: "planned" },
+  { slug: "misc-projects", title: "Projetos diversos", category: "Outros", description: "Um espaço para experiências e construções que não se encaixam em uma única área.", difficulty: "Iniciante", concepts: ["Exploração", "Prototipagem", "Criatividade"], status: "planned" }
 ];
