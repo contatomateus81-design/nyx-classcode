@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import { ArrowDown, ArrowRight, ArrowUpRight, BookOpen, BrainCircuit, Code2, Compass, Layers3, Search, Sparkles, TerminalSquare } from "lucide-react";
 import { SiteHeader } from "@/components/site-header";
-import { categories, technologies } from "@/data/catalog";
+import { categories, technologies } from "@/data/catalog";\nimport { getLesson } from "@/data/lessons";
 
 const icons = [BrainCircuit, TerminalSquare, Code2, Layers3, Compass];
 
@@ -82,14 +82,14 @@ export default function HomePage() {
                 {filtered.map((item, index) => {
                   const Icon = icons[index % icons.length];
                   return (
-                    <article className="technology-card" key={item.slug}>
-                      <div className="card-topline"><span className="card-icon"><Icon size={20} /></span><span className="status status-planned">Em planejamento</span></div>
+                    <a className="technology-card" key={item.slug} href={getLesson(item) ? `/tecnologias/${item.slug}` : "#"} aria-label={`Estudar ${item.title}`}>
+                      <div className="card-topline"><span className="card-icon"><Icon size={20} /></span><span className="status status-planned">{getLesson(item) ? "Conteúdo disponível" : "Em planejamento"}</span></div>
                       <div className="card-category">{item.category}</div>
                       <h3>{item.title}</h3>
                       <p>{item.description}</p>
                       <div className="concept-tags">{item.concepts.slice(0, 3).map((concept) => <span key={concept}>{concept}</span>)}</div>
-                      <div className="card-footer"><span>{item.difficulty}</span><span className="card-soon">Conteúdo em breve <ArrowUpRight size={14} /></span></div>
-                    </article>
+                      <div className="card-footer"><span>{item.difficulty}</span><span className="card-soon">{getLesson(item) ? "Começar a estudar" : "Conteúdo em breve"} <ArrowUpRight size={14} /></span></div>
+                    </a>
                   );
                 })}
               </div>
