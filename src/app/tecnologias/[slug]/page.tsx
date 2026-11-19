@@ -1,17 +1,42 @@
 "use client";
 
 import Link from "next/link";
-import { use, useState } from "react";
+import { use, useEffect, useState } from "react";
 import { ArrowLeft, ArrowRight, BookOpen, CheckCircle2, Lightbulb, ListChecks } from "lucide-react";
 import { SiteHeader } from "@/components/site-header";
 import { technologies } from "@/data/catalog";
 import { getLesson } from "@/data/lessons";
+
+const PROGRESS_KEY = "nyx-classcode:lesson-progress:v1";
 
 export default function TechnologyLessonPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = use(params);
   const technology = technologies.find((item) => item.slug === slug);
   const lesson = technology ? getLesson(technology) : null;
   const [completed, setCompleted] = useState(false);
+  const [progressReady, setProgressReady] = useState(false);
+
+  useEffect(() => {
+    try {
+      const saved = JSON.parse(localStorage.getItem(PROGRESS_KEY) || "{}") as Record<string, boolean>;
+      setCompleted(saved[slug] === true);
+    } catch {
+      setCompleted(false);
+    } finally {
+      setProgressReady(true);
+    }
+  }, [slug]);
+
+  function toggleCompleted() {
+    const next = !completed;
+    setCompleted(next);
+    try {
+      const saved = JSON.parse(localStorage.getItem(PROGRESS_KEY) || "{}") as Record<string, boolean>;
+      localStorage.setItem(PROGRESS_KEY, JSON.stringify({ ...saved, [slug]: next }));
+    } catch {
+      // A página continua utilizável mesmo se o navegador bloquear o armazenamento.
+    }
+  }
 
   if (!technology || !lesson) {
     return (
@@ -78,10 +103,10 @@ export default function TechnologyLessonPage({ params }: { params: Promise<{ slu
                 <div className="eyebrow">SEU PRÓXIMO PASSO</div>
                 <h2>Desafio prático</h2>
                 <p>{lesson.challenge}</p>
-                <button className={completed ? "lesson-complete is-complete" : "lesson-complete"} onClick={() => setCompleted((value) => !value)}>
+                <button className={completed ? "lesson-complete is-complete" : "lesson-complete"} disabled={!progressReady} onClick={toggleCompleted}>
                   <CheckCircle2 size={17} />{completed ? "Marcar como não concluído" : "Concluí este estudo"}
                 </button>
-                <small>Esta marcação é local e vale apenas durante esta sessão. O progresso persistente será conectado ao perfil local de estudos em uma próxima etapa.</small>
+                <small>Seu progresso é salvo neste navegador. Ele permanece após fechar a página, mas não é sincronizado entre dispositivos.</small>
               </section>
 
               <section id="glossario" className="lesson-section">
