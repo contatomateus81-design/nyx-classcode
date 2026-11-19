@@ -6,9 +6,10 @@ import { useState } from "react";
 import { ThemeToggle } from "@/components/theme-toggle";
 
 const links = [
-  { href: "#biblioteca", label: "Biblioteca" },
-  { href: "#trilhas", label: "Trilhas" },
-  { href: "#sobre", label: "Sobre" }
+  { href: "/academy", label: "Academy" },
+  { href: "/#biblioteca", label: "Biblioteca" },
+  { href: "/#trilhas", label: "Trilhas" },
+  { href: "/#sobre", label: "Sobre" }
 ];
 
 export function SiteHeader() {
@@ -25,13 +26,13 @@ export function SiteHeader() {
 
         <nav className={`main-nav ${open ? "nav-open" : ""}`} aria-label="Navegação principal">
           {links.map((link) => (
-            <a key={link.href} href={link.href} onClick={() => setOpen(false)}>{link.label}</a>
+            <Link key={link.href} href={link.href} onClick={() => setOpen(false)}>{link.label}</Link>
           ))}
         </nav>
 
         <div className="header-actions">
           <ThemeToggle />
-          <a href="#biblioteca" className="header-cta">Explorar <Sparkles size={15} /></a>
+          <Link href="/academy" className="header-cta">Academy <Sparkles size={15} /></Link>
           <button className="mobile-menu icon-button" onClick={() => setOpen(!open)} aria-label={open ? "Fechar menu" : "Abrir menu"}>
             {open ? <X size={19} /> : <Menu size={19} />}
           </button>
