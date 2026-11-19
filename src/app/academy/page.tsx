@@ -1,6 +1,7 @@
 "use client";
 
-import { ChangeEvent, useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import type { ChangeEvent } from "react";
 import Link from "next/link";
 import {
   ArrowLeft, ArrowRight, ArrowUpRight, BookOpen, Check, CheckCircle2,
@@ -55,16 +56,14 @@ export default function AcademyPage() {
   }, [query, category, level]);
 
   function toggleCompleted(id: string) {
-    setCompleted((current) => {
-      const next = current.includes(id) ? current.filter((item) => item !== id) : [...current, id];
-      try {
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
-        setNotice(next.includes(id) ? "Aula marcada como concluída neste dispositivo." : "Aula removida do seu progresso.");
-      } catch {
-        setNotice("O navegador não permitiu salvar o progresso.");
-      }
-      return next;
-    });
+    const next = completed.includes(id) ? completed.filter((item) => item !== id) : [...completed, id];
+    setCompleted(next);
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+      setNotice(next.includes(id) ? "Aula marcada como concluída neste dispositivo." : "Aula removida do seu progresso.");
+    } catch {
+      setNotice("O navegador não permitiu salvar o progresso.");
+    }
   }
 
   function exportProgress() {
