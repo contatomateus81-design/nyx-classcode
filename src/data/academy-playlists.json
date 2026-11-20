@@ -1,1 +1,308 @@
-[]
+[
+  {
+    "id": "yt-OLzCR7EttAU",
+    "title": "CURSO FULL STACK - Fundamentos da Programação | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OLzCR7EttAU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/OLzCR7EttAU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDdgFip4Z2N9XQHRnTPhQaA9MEKmA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "3:49",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-o3Hy-XTXrgk",
+    "title": "Guia de ferramentas para programação | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=o3Hy-XTXrgk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/o3Hy-XTXrgk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMU6a2SGfvDRnl7sNFo2xGZT5Gmw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "10:41",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-xY-YddgDyDM",
+    "title": "Introdução a Lógica de Programação | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xY-YddgDyDM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/xY-YddgDyDM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMODvpv2cmeqxfBoYtgiPY2EvqYA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "17:02",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-FMMyaxRRETw",
+    "title": "Variáveis, Operadores e expressões | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FMMyaxRRETw",
+    "thumbnailUrl": "https://i.ytimg.com/vi/FMMyaxRRETw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDO8GOmApKJc1TUN3VMyGIwEYqh6A",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "7:59",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-IQmj-fswybE",
+    "title": "Condicionais IF/Else | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=IQmj-fswybE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/IQmj-fswybE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDulEcxuw-R5_POOLwErI2m7r07ug",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "6:54",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-gq0JYXtO0Us",
+    "title": "Funções no For | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=gq0JYXtO0Us",
+    "thumbnailUrl": "https://i.ytimg.com/vi/gq0JYXtO0Us/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmJNQtg93b7DuBSwW9VhDpuRKFZQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "14:43",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-pDS2A8POaVw",
+    "title": "Estrutura de Dados | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=pDS2A8POaVw",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pDS2A8POaVw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwzWSw0YN1un00G9c-uWEBA7U9HA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "20:26",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-JU8019_E2T0",
+    "title": "Algoritmo | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JU8019_E2T0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/JU8019_E2T0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqj64uq_09-TF1JKQnEbJbyKfB8A",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "17:26",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-IPJk3nb-cV4",
+    "title": "POO - Programação Orientada a Objeto | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=IPJk3nb-cV4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/IPJk3nb-cV4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkRz3VYMaxSspdbILE2hSUR9x-7Q",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "26:41",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-j-BvLWrzyz0",
+    "title": "Versionamento de código com Git | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=j-BvLWrzyz0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/j-BvLWrzyz0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCuuznEI-XTgzHMoPjJtR9i7PO_Mw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "44:08",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-MJdEQVrbNsM",
+    "title": "Arquitetura de Projetos | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=MJdEQVrbNsM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/MJdEQVrbNsM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzAERVpcty4nLUstyfCn8oldbZsA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "24:29",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-mmTD7wJXQLY",
+    "title": "IA Generativa | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mmTD7wJXQLY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/mmTD7wJXQLY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBX-Yi823woSmieP8C_4Emtz45Tjw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "16:02",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-W8TESnbaoCg",
+    "title": "Design Patten | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=W8TESnbaoCg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/W8TESnbaoCg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCERlXJ6OIbNV8skfG24sdW6R_qKA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "11:24",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-ECUCBY7q0Ag",
+    "title": "SOLID | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ECUCBY7q0Ag",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ECUCBY7q0Ag/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfQrPxX3L4wjRo6GsHsm5O3ZYrqw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "17:58",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-AL4aVSbmfFk",
+    "title": "Clean Code com IA | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=AL4aVSbmfFk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/AL4aVSbmfFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDntcA6PbMPiSTZyz5tiJX9pGXs8Q",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "17:44",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-wQU36oJ1cuI",
+    "title": "Gerenciador de Pacotes | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wQU36oJ1cuI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/wQU36oJ1cuI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf29vT5aZakRImubzDibcNpAY0lw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "13:18",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-GNtSqe-FYmU",
+    "title": "Pontos importantes (fim do módulo 1!) | Orange Juice 🍊",
+    "description": "Aula da playlist: CURSO INICIANTE DE PROGRAMAÇÃO FULL STACK",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=GNtSqe-FYmU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/GNtSqe-FYmU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCf6MTfpdwqY-BFusZ1QgJ7pNUJ8A",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "9:44",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  }
+]
