@@ -9,7 +9,7 @@ import {
   PlayCircle, Search, Sparkles, Youtube
 } from "lucide-react";
 import { SiteHeader } from "@/components/site-header";
-import { videoCategories, videoCourses } from "@/data/video-courses";
+import { videoCategories, videoCourses as initialVideoCourses } from "@/data/video-courses";
 
 const STORAGE_KEY = "nyx-classcode:academy-progress:v1";
 
@@ -19,6 +19,7 @@ type ProgressFile = {
 };
 
 export default function AcademyPage() {
+  const [courses, setCourses] = useState(initialVideoCourses);
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState<string>("Todos");
   const [level, setLevel] = useState("Todos");
@@ -26,6 +27,15 @@ export default function AcademyPage() {
   const [storageReady, setStorageReady] = useState(false);
   const [notice, setNotice] = useState("");
   const importRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    fetch("/api/academy/courses", { cache: "no-store" })
+      .then((response) => response.ok ? response.json() : [])
+      .then((data: unknown) => {
+        if (Array.isArray(data)) setCourses(data);
+      })
+      .catch(() => undefined);
+  }, []);
 
   useEffect(() => {
     try {
@@ -47,13 +57,13 @@ export default function AcademyPage() {
 
   const filteredCourses = useMemo(() => {
     const normalized = query.trim().toLocaleLowerCase("pt-BR");
-    return videoCourses.filter((course) => {
+    return courses.filter((course) => {
       const matchesCategory = category === "Todos" || course.category === category || course.topics.includes(category);
       const matchesLevel = level === "Todos" || course.level === level;
       const searchable = [course.title, course.description, course.summary, course.channel, course.category, ...course.topics].join(" ").toLocaleLowerCase("pt-BR");
       return matchesCategory && matchesLevel && (!normalized || searchable.includes(normalized));
     });
-  }, [query, category, level]);
+  }, [query, category, level, courses]);
 
   function toggleCompleted(id: string) {
     const next = completed.includes(id) ? completed.filter((item) => item !== id) : [...completed, id];
@@ -97,7 +107,7 @@ export default function AcademyPage() {
     }
   }
 
-  const completedCount = videoCourses.filter((course) => completed.includes(course.id)).length;
+  const completedCount = courses.filter((course) => completed.includes(course.id)).length;
 
   return (
     <>
@@ -128,7 +138,7 @@ export default function AcademyPage() {
 
         <section className="academy-overview">
           <div className="container academy-overview-inner">
-            <div><strong>{videoCourses.length.toString().padStart(2, "0")}</strong><span>aulas catalogadas</span></div>
+            <div><strong>{courses.length.toString().padStart(2, "0")}</strong><span>aulas catalogadas</span></div>
             <div><strong>{completedCount.toString().padStart(2, "0")}</strong><span>concluídas neste dispositivo</span></div>
             <div><strong>100%</strong><span>links para os criadores originais</span></div>
           </div>
@@ -180,9 +190,9 @@ export default function AcademyPage() {
             <div className="academy-empty">
               <div className="academy-empty-icon"><GraduationCap size={27} /></div>
               <div className="eyebrow">CURADORIA EM PREPARAÇÃO</div>
-              <h3>{videoCourses.length === 0 ? "A primeira seleção está sendo preparada." : "Nenhuma aula encontrada."}</h3>
-              <p>{videoCourses.length === 0 ? "A estrutura da Academy já está pronta. Os cursos serão adicionados após conferirmos o vídeo, o canal, a descrição e a precisão do resumo — sem cadastrar links ou informações inventadas." : "Experimente outro termo ou remova os filtros para ver mais resultados."}</p>
-              {videoCourses.length > 0 && <button className="academy-reset" onClick={() => { setQuery(""); setCategory("Todos"); setLevel("Todos"); }}>Limpar filtros</button>}
+              <h3>{courses.length === 0 ? "A primeira seleção está sendo preparada." : "Nenhuma aula encontrada."}</h3>
+              <p>{courses.length === 0 ? "A estrutura da Academy já está pronta. Os cursos serão adicionados após conferirmos o vídeo, o canal, a descrição e a precisão do resumo — sem cadastrar links ou informações inventadas." : "Experimente outro termo ou remova os filtros para ver mais resultados."}</p>
+              {courses.length > 0 && <button className="academy-reset" onClick={() => { setQuery(""); setCategory("Todos"); setLevel("Todos"); }}>Limpar filtros</button>}
             </div>
           )}
         </section>
