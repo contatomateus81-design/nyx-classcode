@@ -304,5 +304,1283 @@
     ],
     "prerequisites": [],
     "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-p9UAmas6iuA",
+    "title": "Unity 6 Course - Module 1 Introduction",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=p9UAmas6iuA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/p9UAmas6iuA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAwhiko3SaA56aKivl_7A3DxFLBOw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "3:31",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-0DeHa8ty7Ag",
+    "title": "How to Install Unity 6 on Windows [1#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0DeHa8ty7Ag",
+    "thumbnailUrl": "https://i.ytimg.com/vi/0DeHa8ty7Ag/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDL_88pHFToq9LVbS7_xABYwtUBmw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "5:01",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-kGDiZnQN_hk",
+    "title": "How to Install Unity 6 on Linux [1.2#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kGDiZnQN_hk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kGDiZnQN_hk/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDbjZvlzZoHv6icw2zt9k8hczgO-g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "5:57",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-dCrK8d9_fI4",
+    "title": "Getting to Know the Unity 6 Editor Interface [2#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dCrK8d9_fI4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/dCrK8d9_fI4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDvVFPH17Q11mshpRxVUmqxqwsUFw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "5:26",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-6tCqpc1zZK4",
+    "title": "How to Set Up VSCode with Unity 6 on Windows [3.1#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6tCqpc1zZK4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6tCqpc1zZK4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB4GOWf65yQIGcE6GOeZ3LKXV6utA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "9:31",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-Ph1gYa1W6js",
+    "title": "How to Configure VSCode with Unity 6 on Linux [3.2#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Ph1gYa1W6js",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Ph1gYa1W6js/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCPOnX2k7LSuIyPmA3oPIlwf34F4A",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "9:32",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-foy-0gx3dR0",
+    "title": "How to Configure Visual Studio with Unity 6 [3.3#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=foy-0gx3dR0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/foy-0gx3dR0/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAuv3Iz5R-JcV2AdseOI6w6S8MZkw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "5:32",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-cHrRQB5jOmE",
+    "title": "C# Programming Basics - Hello World [4#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=cHrRQB5jOmE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/cHrRQB5jOmE/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLApOwIKG0PELnWMeYvcm8ndju403g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "11:51",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-amT0czaPdCs",
+    "title": "Basic C# Programming - Variables [5#] Unity Course 6 - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=amT0czaPdCs",
+    "thumbnailUrl": "https://i.ytimg.com/vi/amT0czaPdCs/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBIq9v6eWdyVDhYFQsYpnnv1RFvsA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "14:03",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-4xnXERo_Suw",
+    "title": "Exercise Solutions - C# Variables [5.2#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4xnXERo_Suw",
+    "thumbnailUrl": "https://i.ytimg.com/vi/4xnXERo_Suw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBDwGs7qSOk-ZQZyYU8u9bczGzkpw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "14:17",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-ppTTNQ9Xskg",
+    "title": "Programação C# Básico - Strings [6#] Curso Unity 6 - Módulo 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ppTTNQ9Xskg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ppTTNQ9Xskg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA6rV7b1tqB4PPA-KW_sivWkj7cdg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "8:32",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-QshJ6doKvzA",
+    "title": "Exercise Solutions - C# Strings [6.2#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QshJ6doKvzA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/QshJ6doKvzA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDIHmbIqsuiHyh_OK-6jjQKUJ8nQA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "7:37",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-o-TA-IcPgUw",
+    "title": "C# Programming Basics - Input/Output [7#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=o-TA-IcPgUw",
+    "thumbnailUrl": "https://i.ytimg.com/vi/o-TA-IcPgUw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC8j2bdplLY55fQdozLoD8ppx135A",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "9:22",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-sU945nC5z6M",
+    "title": "Exercise Solutions - C# Input/Output [7.2#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=sU945nC5z6M",
+    "thumbnailUrl": "https://i.ytimg.com/vi/sU945nC5z6M/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCvkg7_S-yO-BcqwuSSktJosDlK9g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "18:28",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-yw3MnDVdI58",
+    "title": "Basic C# Programming - Control Flow [8#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=yw3MnDVdI58",
+    "thumbnailUrl": "https://i.ytimg.com/vi/yw3MnDVdI58/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAWEgGb1KvwdWB8560TVJiAueQQPw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "21:55",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-ZAbWwIVeQeA",
+    "title": "Solution to Exercises - C# Control Flows [8.2#] Unity Course 6 - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ZAbWwIVeQeA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ZAbWwIVeQeA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCXKjiUcAieRlzuCOaONPDEnYWUXg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "32:04",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-pnzp4Hvlnco",
+    "title": "Basic C# Programming - Logical Operators [9#] Unity Course 6 - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=pnzp4Hvlnco",
+    "thumbnailUrl": "https://i.ytimg.com/vi/pnzp4Hvlnco/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAg_ej76jjhzl65eSmI2c9cWzGg6g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "19:48",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-SJF9BgmkHXI",
+    "title": "Solution to Exercises - C# Logical Operators [9.2#] Unity Course 6 - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=SJF9BgmkHXI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/SJF9BgmkHXI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAKzI-VTtCmMZpHjzxH5xx_b-fN2A",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "25:49",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-UCSqHkfQT80",
+    "title": "Basic C# Programming - Loops [10#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UCSqHkfQT80",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UCSqHkfQT80/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDlEbtoyUHlM2lbaoiCvcjbjh7fpg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "24:04",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-uly5CasczdA",
+    "title": "Solução dos Exercício - C# Loops [10.2#] Curso Unity 6 - Módulo 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=uly5CasczdA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/uly5CasczdA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCAb8h6pN8rXt_yhpcKduKt2LeZrw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "17:18",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-ij0draC3Oac",
+    "title": "Programação C# Básico - Classes & Objetos [11#] Curso Unity 6 - Módulo 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ij0draC3Oac",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ij0draC3Oac/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDKizxsXjYntjN0Ylnx2WXgaIImHg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "32:18",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-BauRNrb2Ols",
+    "title": "Exercise Solution - C# Classes & Objects [11.2#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=BauRNrb2Ols",
+    "thumbnailUrl": "https://i.ytimg.com/vi/BauRNrb2Ols/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBrZCeKBzUYc-e7NnaP_bdl1XdKkg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "49:31",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-iBjY_Ihvqak",
+    "title": "What are Scenes, Game Objects & Components in Unity [12#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=iBjY_Ihvqak",
+    "thumbnailUrl": "https://i.ytimg.com/vi/iBjY_Ihvqak/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC2JLM0ptQnlbkQtp9YzpeXKuXs6g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "10:11",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-2KMi7qeLXPE",
+    "title": "Game Loop e Ciclo de Vida de um MonoBehaviour [13#] Curso Unity 6 - Módulo 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=2KMi7qeLXPE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/2KMi7qeLXPE/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBl2aGNvWeBopSMFTn-gziDZ6J1lw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "10:17",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-oOMhOSD9zdk",
+    "title": "Moving GameObjects with the Transform Component [14#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=oOMhOSD9zdk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/oOMhOSD9zdk/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBcW_rE_qRH02BerXzGVFD9rFZ1EQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "20:26",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-Q2Xf6SbGVgE",
+    "title": "Creating the Super Pong Project [15#] Unity Course 6 - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Q2Xf6SbGVgE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Q2Xf6SbGVgE/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCpKnBs0InEcmUJQe7CAoecwHHl4g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "5:05",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-6oXs0RbX5Fw",
+    "title": "Movendo o Paddle da Esquerda (Jogador 1) - Projeto Super Pong [16#] Curso Unity 6 - Módulo 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6oXs0RbX5Fw",
+    "thumbnailUrl": "https://i.ytimg.com/vi/6oXs0RbX5Fw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBCSLVbjZRPyIVKRBqYP82OrCSXsw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "19:20",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-EVcIYvVSkP0",
+    "title": "Moving the Right Paddle (Player 2) - Super Pong Project [17#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EVcIYvVSkP0",
+    "thumbnailUrl": "https://i.ytimg.com/vi/EVcIYvVSkP0/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAK_tAOafYPqpeAHgl6oCPQwbDt4Q",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "3:54",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-JX3oIxHu0xw",
+    "title": "Ball Movement - Super Pong Project [18#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JX3oIxHu0xw",
+    "thumbnailUrl": "https://i.ytimg.com/vi/JX3oIxHu0xw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDKR-w-4iN_84dUkPhmjYbsazjowA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "9:02",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-ltyA7ddQofg",
+    "title": "Simple Ball and Paddle Collision - Super Pong Project [19#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ltyA7ddQofg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/ltyA7ddQofg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLByaUxGg5gC3mm4ZcH8QyFEYIjMSQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "12:05",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-EqEkJRBxzkI",
+    "title": "Adding Scoring and a Scoreboard - Super Pong Project [20#] Unity 6 Course - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EqEkJRBxzkI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/EqEkJRBxzkI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB3ANEBkwTor39rxCOwpb_x0Nfd1Q",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "15:51",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-bY96iSpyOXc",
+    "title": "Solution to Exercises - Super Pong Project [21#] Unity Course 6 - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=bY96iSpyOXc",
+    "thumbnailUrl": "https://i.ytimg.com/vi/bY96iSpyOXc/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDvkZH5Wad8To9xIXdNOnc37F_K_g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "34:28",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-LGQCAlChwRo",
+    "title": "Exporting a Unity Project to Windows [22#] Unity Course 6 - Module 1",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LGQCAlChwRo",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LGQCAlChwRo/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDQdcwUrSrxBzMXRbxii7i-KmvfUw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "14:40",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-XLfl6H_fmfg",
+    "title": "Unity 6 Course - Module 2 Introduction",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=XLfl6H_fmfg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/XLfl6H_fmfg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCi-F7PUJRramxutVbRHxPcRBaHeQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "2:05",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-tOCc-sFhnhA",
+    "title": "Module Preparation & Supporting Material [1#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tOCc-sFhnhA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/tOCc-sFhnhA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCfbYEOB5zqKJkg8qfrAGode7-yew",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "5:45",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-8MSm7IU3U2Y",
+    "title": "Creating the Cyber Jungle Infinity Project [#2] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=8MSm7IU3U2Y",
+    "thumbnailUrl": "https://i.ytimg.com/vi/8MSm7IU3U2Y/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAZGH8GolIFawv3dDSc5O4jDZGCPA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "4:37",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-L1UhS9Qg7YI",
+    "title": "How to Import Sprites in Unity [3#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=L1UhS9Qg7YI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/L1UhS9Qg7YI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDOADtBBMckJiUHRiErZpN_qGVZwA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "26:09",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-iPovCuRhTQM",
+    "title": "2D Collisions [4#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=iPovCuRhTQM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/iPovCuRhTQM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCwgYX_h_N1XD174L9rrXBfTWpceg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "30:31",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-vYobyPu3WnY",
+    "title": "Programação C# - Propriedades [5#] Curso Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=vYobyPu3WnY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/vYobyPu3WnY/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBGD968L7TBpxx-7YEzA3r-NiqktA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "28:14",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt--ZpqLtjpXQ4",
+    "title": "Solução dos Exercícios - C# Propriedades [5.1#] Curso Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-ZpqLtjpXQ4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-ZpqLtjpXQ4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBeQiu7RZZ8Fb2oWGEN8levSSE7Hg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "29:06",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-EAQkhPoiTaI",
+    "title": "Player Movement - Cyber Jungle Infinity Project [#6] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EAQkhPoiTaI",
+    "thumbnailUrl": "https://i.ytimg.com/vi/EAQkhPoiTaI/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDrRzB1ye5Yb4hkPinWjBnmMltVkA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "13:39",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-HvroTsEet6o",
+    "title": "Confinando o Movimento à Tela - Projeto Cyber Jungle Infinity [7#] Curso Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=HvroTsEet6o",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HvroTsEet6o/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAOye_h6R6DMJ9c9_l9Y0G6-2qCtQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "15:56",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt--NOcKeOoIKM",
+    "title": "C# Programming - Comments [8#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-NOcKeOoIKM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-NOcKeOoIKM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCkyn8eXmkxPiZWJyr2lETUES7o-A",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "10:38",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-UdUgon1WgaA",
+    "title": "Fundamentos da Animação no Unity [9#] Curso Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UdUgon1WgaA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UdUgon1WgaA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLANwJY52_W937sZqAf2X_vzLMfSVA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "37:14",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-F9ZuOkaNMfg",
+    "title": "Fundamentals of Animation in Unity Part 2: Layers [10#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=F9ZuOkaNMfg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/F9ZuOkaNMfg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCgTiNOvhow3yPXf-8-i6O22ITSPw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "38:59",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-_KKnq_bYLw8",
+    "title": "Prefabs & Creating a Basic Enemy - Cyber ​​Jungle Infinity Project [11#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_KKnq_bYLw8",
+    "thumbnailUrl": "https://i.ytimg.com/vi/_KKnq_bYLw8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDQ2yAYpSyPIOngt23kqcj_nuaURQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "28:45",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-S2sgGR_FyVU",
+    "title": "How to Spawn GameObjects - Cyber ​​Jungle Infinity Project [12#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=S2sgGR_FyVU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/S2sgGR_FyVU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC0EwGOC39eefOP6vfjggSLq7-UHQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "35:36",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-t-_eG-udMkM",
+    "title": "Solução dos Exercícios - Como \"Spawnar\" GameObjects [12.1#] Curso Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=t-_eG-udMkM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/t-_eG-udMkM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAq8Ia9TbiMcHWvqdWYN-NATi4OYw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "44:40",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-TEM-pI6utOk",
+    "title": "Sprite em Camadas com Sorting Layer [13#] Curso Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=TEM-pI6utOk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/TEM-pI6utOk/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAaeo4qTcajUg3NqCJ28CnsaJ-FHQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "11:15",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-qrnQdsHDfoU",
+    "title": "Parallax Background Effect [14#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=qrnQdsHDfoU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/qrnQdsHDfoU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLB-uKa2-R0F712lRFjksu83R6J19g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "22:25",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-UwD_DoB7vjA",
+    "title": "Agrupando Sprites com Componente SortingGroup [15#] Curso Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UwD_DoB7vjA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UwD_DoB7vjA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDbkCiCvti2VICU-F9VCcyWMFHKtA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "8:09",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-LLfdnw0JbN8",
+    "title": "Enemy Animations & Sub State Machine [16#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LLfdnw0JbN8",
+    "thumbnailUrl": "https://i.ytimg.com/vi/LLfdnw0JbN8/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDDUhSy6Ei8acSgroi8oVm1NLRI_w",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "38:06",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-FBmrYFsnoxk",
+    "title": "SendMessage - Exchanging Messages Between Components [17#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=FBmrYFsnoxk",
+    "thumbnailUrl": "https://i.ytimg.com/vi/FBmrYFsnoxk/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLA3S_8v9BJwHZOidjeNuP-NORmYlA",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "37:12",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-lSTPxEMa34A",
+    "title": "Introduction to Coroutines [18#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=lSTPxEMa34A",
+    "thumbnailUrl": "https://i.ytimg.com/vi/lSTPxEMa34A/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDBi6_2SZEnQtguoTHhJm2DiT4-fw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "59:38",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-7egv2IKrrhY",
+    "title": "Updating Unity Version [EXTRA-01#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=7egv2IKrrhY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7egv2IKrrhY/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLADnpEqXm1Nzzk_ASyEoKHAN7vW5w",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "4:39",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-q9uEpRpVfRw",
+    "title": "Temporary Invulnerability After Damage [19#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=q9uEpRpVfRw",
+    "thumbnailUrl": "https://i.ytimg.com/vi/q9uEpRpVfRw/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDrUGBlan--NRP9h0XDHf3nIA1l2g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "12:19",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-Ce_fTJnfCaA",
+    "title": "Constants & Enums in C# [20#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Ce_fTJnfCaA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Ce_fTJnfCaA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBMbrZ2LjJ3zMZ4ZLCzVgjrTGJNyg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "41:51",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-gvkEsgYaBiE",
+    "title": "Solution to Exercises - C# Constants & Enums [20.1#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=gvkEsgYaBiE",
+    "thumbnailUrl": "https://i.ytimg.com/vi/gvkEsgYaBiE/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCmHSr7d19QcQoZmJQjppBVHWj0NQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "52:50",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-1IrfcRuXBPg",
+    "title": "Switch in C# [21#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=1IrfcRuXBPg",
+    "thumbnailUrl": "https://i.ytimg.com/vi/1IrfcRuXBPg/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDzWBapwHnTvm05YJtgH27vbztE_Q",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "22:05",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt--sFR9LBEgTA",
+    "title": "Solution to the Exercises - C# Switch [21.1#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-sFR9LBEgTA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/-sFR9LBEgTA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAJ1vWCeQ9Z-N2y4OwWDNICoJapaQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "55:28",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-Tg0yW0lpIFA",
+    "title": "Arrays em C# [22#] Curso Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Tg0yW0lpIFA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/Tg0yW0lpIFA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDKMNUsBpOEOpl1GvdvmMQCwCXn5g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "25:06",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-tihNDZCF6c4",
+    "title": "For each loop in C# [23#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tihNDZCF6c4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/tihNDZCF6c4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLADWkDY7B9LzB8olQTBE92d66pK4A",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "7:10",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-C_tsvvv9yXU",
+    "title": "Prefab Variants - Part 1 [24#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=C_tsvvv9yXU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/C_tsvvv9yXU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC89QuLRpRRv9HfHUreeiFz5_hi5g",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "30:54",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-us8LObKgPbU",
+    "title": "Prefab Variants - Part 2 [25#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=us8LObKgPbU",
+    "thumbnailUrl": "https://i.ytimg.com/vi/us8LObKgPbU/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLD0jrEwZHehCD5OAibOOtQkB8kA2A",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "16:13",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-7CVc2utmeu4",
+    "title": "Prefab Variants - Part 3 [26#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=7CVc2utmeu4",
+    "thumbnailUrl": "https://i.ytimg.com/vi/7CVc2utmeu4/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLC-ym8i26SJ2tWgM83eA0MDDKwcQw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "11:33",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-HE1ky9l97eA",
+    "title": "Prefab Variants - Part 4 [27#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=HE1ky9l97eA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/HE1ky9l97eA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLCW9sDYX8TNfucOjP3v-UnRy5sHmw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "9:58",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-PuXTjzWtK8Y",
+    "title": "Level Design of the Project [28#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=PuXTjzWtK8Y",
+    "thumbnailUrl": "https://i.ytimg.com/vi/PuXTjzWtK8Y/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLDx4xxKJinfsTO6o-tQD0tV1CeBqQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "15:25",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-JowjvK4ZXqM",
+    "title": "Criando o Cérebro do Projeto [29#] Curso de Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JowjvK4ZXqM",
+    "thumbnailUrl": "https://i.ytimg.com/vi/JowjvK4ZXqM/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAod3JLG6PY_4XXIkqq8KnxjKItBw",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "18:52",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-TPBpH_Kdh68",
+    "title": "Sistema de Pontuação [30#] Curso de Unity 6 - Módulo 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=TPBpH_Kdh68",
+    "thumbnailUrl": "https://i.ytimg.com/vi/TPBpH_Kdh68/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLBrQnRoouL65rMwbZAbdpUYCvxHjg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "11:46",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-rPLXbTIvtPA",
+    "title": "Audio Fundamentals in Unity [31#] Unity Course 6 - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=rPLXbTIvtPA",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rPLXbTIvtPA/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAa7o3xuCilqLg3ZYrt8aaOogc1Tg",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "7:49",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
+  },
+  {
+    "id": "yt-SjNqotwdAOY",
+    "title": "Sound Effects in Unity [32#] Unity 6 Course - Module 2",
+    "description": "Aula da playlist: Curso Unity 6",
+    "summary": "Prévia didática ainda não revisada. Consulte o vídeo original para conhecer o conteúdo completo.",
+    "channel": "Canal do YouTube",
+    "youtubeUrl": "https://www.youtube.com/watch?v=SjNqotwdAOY",
+    "thumbnailUrl": "https://i.ytimg.com/vi/SjNqotwdAOY/hqdefault.jpg?sqp=-oaymwEgCNACELwBSFXyq4qpAxIIARUAAIhCGAFwAcABBrgC8xg=&rs=AOn4CLAmhLo0T_BcU362M6kn6fs7Ikf_tQ",
+    "category": "Frontend",
+    "level": "Iniciante",
+    "duration": "14:26",
+    "language": "Português",
+    "topics": [
+      "Frontend"
+    ],
+    "prerequisites": [],
+    "practicalTask": "Após assistir, anote os principais conceitos e experimente aplicá-los em um pequeno projeto."
   }
 ]
